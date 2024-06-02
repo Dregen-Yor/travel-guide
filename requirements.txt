@@ -1,0 +1,11 @@
+requests
+Selenium
+numpy
+scipy
+pyecharts
+Django
+pandas
+anthropic
+beautifulsoup4
+transformers
+scikit-learn
